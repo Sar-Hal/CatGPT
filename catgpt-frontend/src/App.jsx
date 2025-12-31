@@ -95,7 +95,7 @@ const sendMessage = (text) => {
           : chat
       )
     );
-  }, 5); // speed (ms per char)
+  }, 15); // speed (ms per char)
 };
 
 
